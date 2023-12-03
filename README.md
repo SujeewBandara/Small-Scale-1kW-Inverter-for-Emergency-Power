@@ -19,5 +19,6 @@ Home Use: Keep essential devices running during power outages.
 
 <p align="center"> <img src="https://github.com/SujeewBandara/Small-Scale-1kW-Inverter-for-Emergency-Power/blob/main/2DD.JPG" width="720" height="480"/>
 
-<p align="center"> <img src="https://github.com/SujeewBandara/Small-Scale-1kW-Inverter-for-Emergency-Power/blob/main/3DD.JPG" width="720" height="480"/>
+<p align="center"> <img src="https://github.com/SujeewBandara/Small-Scale-1kW-Inverter-for-Emergency-Power/blob/main/3D.JPG" width="720" height="480"/>
 
+<p align="center"> <img src="https://github.com/SujeewBandara/Small-Scale-1kW-Inverter-for-Emergency-Power/blob/main/3D2.JPG" width="720" height="480"/>
